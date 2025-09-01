@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5c203b32.css",
+    "main.js": "/portfolio/static/js/main.950eb503.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Blockchain.png": "/portfolio/static/media/Blockchain.43783f6918bc7c73a66a.png",
+    "static/media/VMT.png": "/portfolio/static/media/VMT.8e67206e28795f29a1f5.png",
+    "static/media/UGC.png": "/portfolio/static/media/UGC.6dc4c9331b5fc7f570a4.png",
+    "static/media/FutCards.png": "/portfolio/static/media/FutCards.4c480f3cba264f2d8d6d.png",
+    "static/media/ChAIt.png": "/portfolio/static/media/ChAIt.b016dcd3ffbe359fd4a0.png",
+    "static/media/NexusLab.png": "/portfolio/static/media/NexusLab.f5511c88166f9682ff1c.png",
+    "static/media/FaceADs.png": "/portfolio/static/media/FaceADs.2308bff30e2529227606.png",
+    "static/media/Shhat.png": "/portfolio/static/media/Shhat.e35457dc2a9d87fc6a0a.png",
+    "static/media/PedroGarcia_CV.pdf": "/portfolio/static/media/PedroGarcia_CV.229d3e581021c5671cec.pdf",
+    "static/media/about.png": "/portfolio/static/media/about.6f07277e748e2a7002b8.png",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.6f07277e748e2a7002b8.png",
+    "static/media/Yondr1.png": "/portfolio/static/media/Yondr1.580029c308750b4afed5.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.5c203b32.css.map": "/portfolio/static/css/main.5c203b32.css.map",
+    "main.950eb503.js.map": "/portfolio/static/js/main.950eb503.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c203b32.css",
+    "static/js/main.950eb503.js"
+  ]
+}
